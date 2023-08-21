@@ -1,0 +1,47 @@
+.viewpor{
+    height: 100vh;
+}
+
+.chat-head{
+    height : 10%
+}
+.chat-body {
+    height : 80%
+}
+.call-body {
+    height : 90%
+}
+.call-footer {
+    height : 10%
+}
+
+.call.footer{
+    background-color: #DBE2EF;
+}
+.friend-list{
+    background-color: #112D4E;
+}   
+.firend-list-element{
+    transition: 0.2s;
+}
+.firend-list-element:hover{
+    background-color: #3F72AF;
+     border-left: 10px white solid ;
+  }
+
+.button.signout{
+    background-color: #DBE2EF;
+}
+.button.signout{
+    color: #3F72AF;
+    font-size: 25px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #f1f3f8;
+}
+
+/* .button.signout:hover{
+    cursor: pointer;
+    background-color: #f1f3f8;
+} */

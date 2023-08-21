@@ -1,0 +1,7 @@
+.page403 .pageTitleContainer h1{
+  color: var(--bs-danger);
+}
+
+.page403 a{
+  color: var(--bs-danger);
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "sender": "facha",
+        "receiver": "saafi",
+        "content": "salmo alykom1",
+        "time": "1"
+    },{
+        "id": "2",
+        "sender": "saafi",
+        "receiver": "facha",
+        "content": "salmo alykom 2",
+        "time": "12"
+    },{
+        "id": "3",
+        "sender": "saafi",
+        "receiver": "facha",
+        "content": "salmo alykom 3",
+        "time": "16"
+    },{
+        "id": "4",
+        "sender": "facha",
+        "receiver": "saafi",
+        "content": "salmo alykom 5",
+        "time": "19"
+    },{
+        "id": "5",
+        "sender": "facha",
+        "receiver": "saafi",
+        "content": "salmo alykom 6",
+        "time": "20"
+    },{
+        "id": "6",
+        "sender": "saafi",
+        "receiver": "facha",
+        "content": "salmo alykom 7",
+        "time": "25"
+    }
+]
